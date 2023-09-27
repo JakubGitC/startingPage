@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://ejakubdeveloper.pl](https://ejakubdeveloper.pl)
 
 - 💬 Ask me about **react, javascript, typescript**
-
+ff
 - ⚡ Fun fact **I thing I am good at what I do**
 
 <h3 align="left">Connect with me:</h3>
